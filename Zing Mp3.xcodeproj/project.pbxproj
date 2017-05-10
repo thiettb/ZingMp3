@@ -12,6 +12,7 @@
 		FA4F11551EC386B700DBF906 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4F11531EC386B700DBF906 /* Main.storyboard */; };
 		FA4F11571EC386B700DBF906 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4F11561EC386B700DBF906 /* Assets.xcassets */; };
 		FA4F115A1EC386B700DBF906 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA4F11581EC386B700DBF906 /* LaunchScreen.storyboard */; };
+		FA4F11621EC3874C00DBF906 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA4F11611EC3874C00DBF906 /* zing-mp3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA4F11561EC386B700DBF906 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA4F11591EC386B700DBF906 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA4F115B1EC386B700DBF906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA4F11611EC3874C00DBF906 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zing-mp3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FA4F114F1EC386B700DBF906 /* AppDelegate.swift */,
 				FA4F11511EC386B700DBF906 /* ViewController.swift */,
+				FA4F11611EC3874C00DBF906 /* zing-mp3.jpg */,
 				FA4F11531EC386B700DBF906 /* Main.storyboard */,
 				FA4F11561EC386B700DBF906 /* Assets.xcassets */,
 				FA4F11581EC386B700DBF906 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA4F11621EC3874C00DBF906 /* zing-mp3.jpg in Resources */,
 				FA4F115A1EC386B700DBF906 /* LaunchScreen.storyboard in Resources */,
 				FA4F11571EC386B700DBF906 /* Assets.xcassets in Resources */,
 				FA4F11551EC386B700DBF906 /* Main.storyboard in Resources */,
